@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Rest_deel2</name>
+    </assembly>
+    <members>
+        <member name="M:Rest_deel2.Controllers.NewsMessagesController.GetNewsMessage">
+            <summary>
+            Get all the messages
+            </summary>
+            <returns>NewsMessage[]</returns>
+        </member>
+    </members>
+</doc>
